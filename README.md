@@ -7,6 +7,8 @@
 ![Static Badge](https://img.shields.io/badge/%20ansible-ansible?style=plastic&logo=ansible)
 ![Static Badge](https://img.shields.io/badge/%20docker-docker?style=plastic&logo=docker)
 ![Static Badge](https://img.shields.io/badge/git-git?style=plastic&logo=git)
+![Static Badge](https://img.shields.io/badge/kubernetes-kubernetes?style=plastic&logo=kubernetes)
+
 
 
 
