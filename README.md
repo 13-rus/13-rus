@@ -5,5 +5,7 @@
 # my tools
 ![Static Badge](https://img.shields.io/badge/sql-postgresql-blue?style=plastic&logo=postgresql)
 ![Static Badge](https://img.shields.io/badge/%20ansible-ansible?style=plastic&logo=ansible)
+![Static Badge](https://img.shields.io/badge/%20docker-docker?style=plastic&logo=docker)
+
 
 
